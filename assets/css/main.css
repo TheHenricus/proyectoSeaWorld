@@ -65,9 +65,18 @@ section, summary, time, mark, audio, video {
 			width:100%;
 		}
 
-		#customerOpinion{
+		#customerOpinion, #historySubtitle, .hSection{
 			display: flex;
 			justify-content: center;
+		}
+
+		.hSection{
+			margin-bottom: 50px;
+		}
+
+		#sw-carousel{
+			width: 100%;
+			height: auto;
 		}
 
 		body {
@@ -3587,6 +3596,12 @@ section, summary, time, mark, audio, video {
 
 		.noMgB{
 			margin-bottom: 0px;
+		}
+
+		#historyImg{
+			width: 50%;
+			height: auto;
+			margin: 0;
 		}
 
 		#header .logo {
