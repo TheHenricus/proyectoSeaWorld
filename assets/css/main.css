@@ -70,6 +70,10 @@ section, summary, time, mark, audio, video {
 			justify-content: center;
 		}
 
+		.toolbar{
+			color: white !important;
+		}
+
 		.hSection{
 			margin-bottom: 50px;
 		}
