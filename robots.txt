@@ -3,3 +3,5 @@ Disallow: /images/
 Disallow: /assets/
 Allow: /historia/
 Allow: /galeria/
+
+Sitemap: https://seaworld-hotel.com/sitemap.xml
