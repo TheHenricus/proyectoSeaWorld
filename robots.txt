@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /images/
+Disallow: /assets/
+Allow: /historia/
+Allow: /galeria/
