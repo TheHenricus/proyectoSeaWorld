@@ -74,11 +74,6 @@ section, summary, time, mark, audio, video {
 			margin-bottom: 50px;
 		}
 
-		#sw-carousel{
-			width: 100%;
-			height: auto;
-		}
-
 		body {
 			-webkit-text-size-adjust: none;
 		}
