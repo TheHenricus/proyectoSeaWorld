@@ -67,7 +67,8 @@ section, summary, time, mark, audio, video {
 		}
 
 		#starsSW {
-			font-size: 2.5rem;
+			font-size: 2.5rem !important;
+			color: #EE7D51 !important;
 		}
 
 		.toolbar{
