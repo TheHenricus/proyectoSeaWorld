@@ -66,6 +66,10 @@ section, summary, time, mark, audio, video {
 			justify-content: center;
 		}
 
+		#starsSW {
+			font-size: 2.5rem;
+		}
+
 		.toolbar{
 			color: white !important;
 		}
